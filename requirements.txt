@@ -1,0 +1,9 @@
+boto3
+pylint
+cllick
+pytest
+pytest-cov
+fastapi
+requests
+openai
+python-youtube
